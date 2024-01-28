@@ -2,3 +2,5 @@ gitinit
 gitlog
 git status 
 git adduser
+git clone
+git remote -v
