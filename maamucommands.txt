@@ -1,0 +1,4 @@
+gitinit
+gitlog
+git status 
+git adduser
